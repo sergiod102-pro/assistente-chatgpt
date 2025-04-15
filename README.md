@@ -1,6 +1,4 @@
-
 # SL Bot ChatGPT
-
 Este é um projeto simples feito em Python que usa a API da OpenAI (ChatGPT) para criar um assistente virtual no terminal. Desenvolvido por Sérgio Luiz como parte dos estudos em IA generativa e automação.
 
 ## Funcionalidades
@@ -25,3 +23,4 @@ Este é um projeto simples feito em Python que usa a API da OpenAI (ChatGPT) par
 4. Execute as células no Colab e interaja com o assistente.
 
 ## Exemplo de uso
+Digite sua pergunta: Quem foi Albert Einstein? Resposta do ChatGPT: Albert Einstein foi um físico teórico alemão conhecido pela teoria da relatividade...
